@@ -20,10 +20,10 @@ consumes: {
     ]
   }
 requirements: [
-  phase-fabric/100
-  thorium/100
-  plastanium/30
-  surge-alloy/70
+  "phase-fabric/100"
+  "thorium/100"
+  "plastanium/30"
+  "surge-alloy/70"
 ]
 category: crafting
 research: adamantium forge
