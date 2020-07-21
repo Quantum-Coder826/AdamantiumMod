@@ -1,0 +1,27 @@
+type: SingleTypeGenerator
+name: Adamatium grenarator
+description: A highy efficient and small reactor.
+size: 2
+hasPower: true
+hasItems: true
+itemDuration: 20
+powerProduction: 500.0
+consumes: {
+  items: {
+    items: [
+    adamantium/3
+    ]
+    optional: false
+  }
+  liquid: {
+  liquid: cryofluid
+  amount: 1.3
+  }
+}
+requirements: [
+  metaglass/80
+  silicon/60
+  adamantium/20
+]
+category: power
+research: impact-reactor

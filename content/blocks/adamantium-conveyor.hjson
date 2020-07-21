@@ -1,0 +1,12 @@
+type: Conveyor
+name: Adamantium conveyor
+description: A fast and strong conveyor.
+health: 500
+requirements: [
+  titanium/3
+  copper/3
+  lead/3
+  adamantium/3
+]
+category: distribution
+speed: 0.15

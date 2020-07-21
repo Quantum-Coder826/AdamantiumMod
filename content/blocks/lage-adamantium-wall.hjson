@@ -1,0 +1,10 @@
+name: Lage adamantium wall
+description: A strong lage wall.
+type: Wall
+health: 4000
+size: 2
+requirements: [
+  adamantium/30
+]
+category: defense
+research: surge-wall-large

@@ -1,0 +1,6 @@
+name: "Adamantium mod"
+displayName: "Adamantium mod"
+author: "Quantum, Superman"
+description: "A mod that adds adamantium to the game."
+version: "1.0"
+minGameVersion: "101"

@@ -1,0 +1,5 @@
+name: Liquid Adamantium
+description: A hot and viscos molten meatal, when it solidifies it is unmeltable.
+temperature: 0.8
+effect: melting
+color: 961EFF
