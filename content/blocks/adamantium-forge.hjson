@@ -12,11 +12,11 @@ consumes: {
   power: 7.8
   items: {
     items: [
-    silicon/15
-    thorium/3
-    surge-alloy/20
-    pyratite/4
-    plastanium/10
+    "silicon/15"
+    "thorium/3"
+    "surge-alloy/20"
+    "pyratite/4"
+    "plastanium/10"
     ]
   }
 requirements: [
