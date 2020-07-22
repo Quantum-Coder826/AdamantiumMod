@@ -23,4 +23,5 @@ Quantum-Coder826/AdamantiumMod-Nieuw
 
 ### Want more mods?
 Simon Woodburry-Forget heeft een lijst [hier](https://simonwoodburyforget.github.io/mindustry-mods/).
+
 Als je zelf een mode heb gemaakt dan kan je hem [hier](https://github.com/SimonWoodburyForget/mindustry-mods/blob/master/CONTRIBUTING.md#adding-mods-to-the-listing) zelf toevoegen.
