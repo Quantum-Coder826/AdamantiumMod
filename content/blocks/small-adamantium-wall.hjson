@@ -2,7 +2,7 @@ name: Adamantium Wall
 description: A strong small wall.
 type: Wall
 health: 1500
-size 1
+size: 1
 requirements: [
   adamantium/10
 ]
