@@ -1,7 +1,7 @@
 # AdamantiumMod-Nieuw
 Dit is een mod voor Mindustry door Anuke: https://anuke.itch.io/mindustry
 
-## downloaden en instaleeren
+## downloaden en installeren
 1. Download de mod als een .zip file, en plaats de file waar je je mods wilt opslaan.
 2. Start Mindustry en ga naar de mods tab.
 3. Klik op "Importeer mod" en navigeer naar de gedownloade mod file.
