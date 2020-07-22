@@ -17,6 +17,6 @@ Dit is een mod voor Mindustry door Anuke: https://anuke.itch.io/mindustry
 Quantum-Coder826/AdamantiumMod-Nieuw
 ```
 
-### Contribuytors:
+### Contribution :
 1. Quantum-Coder826; Programming
 2. superman312; Assets & sprites
