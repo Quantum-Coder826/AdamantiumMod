@@ -33,6 +33,10 @@ type: GenericSmelter
 name: Adamantium Forge
 description: Combines multible items to make liquid Adamantium.
 liquidCapacity: 30
+outputLiquid: {
+  liquid: liquid-adamantium
+  amount: 7
+}
 itemCapacity: 90
 size: 3
 hasPower: true
@@ -62,4 +66,3 @@ category: crafting
 research: adamantium-press
 idleSound: respawning
 idleSoundVolume: 0.5
-outputLiquid: liquid-adamantium
