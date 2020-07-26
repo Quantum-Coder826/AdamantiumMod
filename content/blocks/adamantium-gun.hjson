@@ -14,10 +14,10 @@ inaccuracy: 5
 rotatespeed: 15
 ammo: {
   //ammo item gevolgt door data
-  adamantium: {
-    speed: 5
+  adamantium-infused-Thorium: {
+    speed: 7
     //damagewaarde nog te veranderen
-    damage: 20
+    damage: 25
     //waardes gekopieerd nog te veranderen
     bulletWith: 7
     //waardes gekopieerd nog te veranderen
