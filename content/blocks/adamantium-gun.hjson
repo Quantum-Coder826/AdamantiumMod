@@ -1,6 +1,7 @@
 type: DoubleTurret
 name: Adamantium Gun
 description: Fires heavy projectiles for a lange amount of damage.
+shootSound: laser
 //tijdelijke waarde
 health: 250
 size: 2
