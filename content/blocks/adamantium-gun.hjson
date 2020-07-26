@@ -2,7 +2,7 @@ type: DoubleTurret
 name: Adamantium Gun
 description: Fires heavy projectiles for a lange amount of damage.
 //tijdelijke waarde
-health: 100
+health: 250
 size: 2
 //tijdelijke waarde
 reload: 10
@@ -17,7 +17,7 @@ ammo: {
   adamantium: {
     speed: 5
     //damagewaarde nog te veranderen
-    damage: 10
+    damage: 20
     //waardes gekopieerd nog te veranderen
     bulletWith: 7
     //waardes gekopieerd nog te veranderen
@@ -34,4 +34,4 @@ requirements: [
   adamantium/10
 ]
 category: turret
-research: lancer
+research: salvo
