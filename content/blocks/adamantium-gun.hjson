@@ -1,0 +1,37 @@
+type: DoubleTurret
+name: Adamantium Gun
+description: Fires heavy projectiles for a lange amount of damage.
+//tijdelijke waarde
+health: 100
+size: 2
+//tijdelijke waarde
+reload: 10
+range: 200
+ammoUseEffect: shellEjectSmall
+//5 graden afwijking max op schoten.
+inaccuracy: 5
+//hoeveel graden de turret kan bewegen per tick
+rotatespeed: 15
+ammo: {
+  //ammo item gevolgt door data
+  adamantium: {
+    speed: 5
+    //damagewaarde nog te veranderen
+    damage: 10
+    //waardes gekopieerd nog te veranderen
+    bulletWith: 7
+    //waardes gekopieerd nog te veranderen
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 5
+  }
+}
+//item vereisten om te bouwen
+requirements: [
+  copper/5
+  lead/5
+  adamantium/10
+]
+category: turret
+research: lancer
