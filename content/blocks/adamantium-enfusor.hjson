@@ -2,14 +2,20 @@ type: GenericCrafter
 name: Adamantium Enfusor
 description: Enfuses Adamantium and Thorium.
 itemCapacity: 20
+//itemoutput:
+outputItem: adamantium-infused-Thorium/1
 size: 2
 hasPower: true
 craftTime: 100
 updateEffect: smeltsmoke
 consumes: {
   power: 10
-  item: adamantium/1
-  item: thorium/3
+  items: {
+    items: [
+    adamantium/1
+    thorium/3
+    ]
+  }
 }
 requirements: [
   lead/50
