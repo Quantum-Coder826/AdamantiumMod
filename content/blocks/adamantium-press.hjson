@@ -1,5 +1,5 @@
 type: GenericSmelter
-name: Adamantium press
+name: Adamantium Press
 description: Solidifies molten adamantium into adamantium.
 liquidCapacity: 15
 itemCapacity: 5
