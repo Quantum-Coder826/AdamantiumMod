@@ -18,7 +18,7 @@ ammo: {
   adamantium-infused-Thorium: {
     speed: 7
     //damagewaarde nog te veranderen
-    damage: 25
+    damage: 50
     //waardes gekopieerd nog te veranderen
     bulletWith: 7
     //waardes gekopieerd nog te veranderen
