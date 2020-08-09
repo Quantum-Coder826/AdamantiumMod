@@ -15,7 +15,7 @@ inaccuracy: 5
 rotatespeed: 15
 ammo: {
   //ammo item gevolgt door data
-  adamantium-infused-Thorium: {
+  adamantium-infused-thorium: {
     speed: 7
     //damagewaarde nog te veranderen
     damage: 50
