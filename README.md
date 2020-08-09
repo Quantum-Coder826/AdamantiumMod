@@ -18,7 +18,7 @@ Waarschuwing deze mod is niet compleet, er missen sprites en er zitten bugs in d
 Quantum-Coder826/AdamantiumMod-Nieuw
 ```
 
-### Contribution :
+### Contribution:
 1. Quantum-Coder826; Programming
 2. superman312; Assets & sprites
 
