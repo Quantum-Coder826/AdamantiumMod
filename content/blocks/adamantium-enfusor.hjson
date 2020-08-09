@@ -3,7 +3,7 @@ name: Adamantium Enfusor
 description: Enfuses Adamantium and Thorium.
 itemCapacity: 20
 //itemoutput:
-outputItem: adamantium-infused-Thorium/1
+outputItem: adamantium-infused-thorium/1
 size: 2
 hasPower: true
 craftTime: 100
