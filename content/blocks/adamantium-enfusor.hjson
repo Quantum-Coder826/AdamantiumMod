@@ -1,5 +1,5 @@
 type: GenericCrafter
-name: Adamantium Enfusor
+name: Adamantium Infusor
 description: Enfuses Adamantium and Thorium.
 itemCapacity: 20
 //itemoutput:
