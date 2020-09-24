@@ -22,8 +22,7 @@ Quantum-Coder826/AdamantiumMod-New
 '''
 
 #### Contribution:
-Quantum-Coder826; Programming
-Superman312; Assets & sprites
+Quantum-Coder826; Programming  Superman312; Assets & sprites
 
 ### Want more mods?
 Simon Woodburry-Forget has a list [here](https://simonwoodburyforget.github.io/mindustry-mods/).
