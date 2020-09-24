@@ -1,26 +1,29 @@
-# AdamantiumMod-Nieuw
-Dit is een mod voor Mindustry door Anuke: https://anuke.itch.io/mindustry
-Waarschuwing deze mod is niet compleet, er missen sprites en er zitten bugs in de code!!
+# AdamantiumMod
+This is a mod for Mindustry by Auke: https://anuke.itch.io/mindustry
+Warning this mod is not complete, sprites are missing and there are bugs in the code!
 
-## Downloaden en installeren
-1. Download de mod als een .zip file, en plaats de file waar je je mods wilt opslaan.
-2. Start Mindustry en ga naar de mods tab.
-3. Klik op "Importeer mod" en navigeer naar de gedownloade mod file.
-4. Klik op de mod file en druk op laad.
-5. De mod is nu geinstaleerd.
+## Installation
+There are tow ways to install the mod, the hard way and the easy way:
 
-## Aternatief
-1. Start Mindustry en ga naar de mods tab.
-2. Klik op "Importeer GitHub mod"
-3. Plak in het popup menu de onderstaande link.
-4. De mod is nu geinstaleerd.
-```
-Quantum-Coder826/AdamantiumMod-Nieuw
-```
+##### the hard way:
+1. Download the mod as a .zip file, and place the file where you want to save your mods.
+2. Start Mindustry and go to the mods tab.
+3. Click "Import mod" and navigate to the downloaded mod file.
+4. Click on the mod file and press load.
+5. The mod is now installed.
 
-### Contribution:
+##### the easy way:
+1. Start Mindustry and go to the mods tab.
+2. Click 'Import GitHub mod'.
+3. Paste the link below into the pop up menu.
+4. The mod is now installed.
+'''
+Quantum-Coder826/AdamantiumMod-New
+'''
+
+#### Contribution:
 1. Quantum-Coder826; Programming
-2. superman312; Assets & sprites
+2. Superman312; Assets & sprites
 
 ### Want more mods?
-Simon Woodburry-Forget heeft een lijst [hier](https://simonwoodburyforget.github.io/mindustry-mods/).
+Simon Woodburry-Forget has a list [here](https://simonwoodburyforget.github.io/mindustry-mods/).
