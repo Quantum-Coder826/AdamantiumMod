@@ -21,7 +21,7 @@ There are tow ways to install the mod, the hard way and the easy way:
 Quantum-Coder826/AdamantiumMod-New
 '''
 
-#### Contribution:
+### Contribution:
 Quantum-Coder826; Programming
 Superman312; Assets & sprites
 
