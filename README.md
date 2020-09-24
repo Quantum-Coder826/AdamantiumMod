@@ -21,9 +21,5 @@ There are tow ways to install the mod, the hard way and the easy way:
 Quantum-Coder826/AdamantiumMod-New
 '''
 
-### Contribution:
-1. Quantum-Coder826; Programming
-2. Superman312; Assets & sprites
-
 ### Want more mods?
 Simon Woodburry-Forget has a list [here](https://simonwoodburyforget.github.io/mindustry-mods/).
