@@ -23,6 +23,7 @@ Quantum-Coder826/AdamantiumMod-New
 
 #### Contribution:
 Quantum-Coder826; Programming
+
 Superman312; Assets & sprites
 
 ### Want more mods?
