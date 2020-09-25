@@ -18,9 +18,9 @@ There are tow ways to install the mod, the hard way and the easy way:
 3. Paste the link below into the pop up menu.
 4. The mod is now installed.
 
-'''
+```
 Quantum-Coder826/AdamantiumMod-New
-'''
+```
 
 ### Want more mods?
 Simon Woodburry-Forget has a list [here](https://simonwoodburyforget.github.io/mindustry-mods/).
