@@ -17,6 +17,7 @@ There are tow ways to install the mod, the hard way and the easy way:
 2. Click 'Import GitHub mod'.
 3. Paste the link below into the pop up menu.
 4. The mod is now installed.
+
 '''
 Quantum-Coder826/AdamantiumMod-New
 '''
