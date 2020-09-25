@@ -19,7 +19,7 @@ There are tow ways to install the mod, the hard way and the easy way:
 4. The mod is now installed.
 
 ```
-Quantum-Coder826/AdamantiumMod-New
+Quantum-Coder826/AdamantiumMod-mindustry-mods
 ```
 
 ### Want more mods?
