@@ -23,4 +23,4 @@ Quantum-Coder826/AdamantiumMod-mindustry-mods
 ```
 
 ### Want more mods?
-Simon Woodburry-Forget has a list [here](https://simonwoodburyforget.github.io/mindustry-mods/).
+Simon WoodburryForget has a list [here](https://simonwoodburyforget.github.io/mindustry-mods/).
