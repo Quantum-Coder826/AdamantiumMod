@@ -1,6 +1,6 @@
 # AdamantiumMod
 This is a mod for Mindustry by Auke: https://anuke.itch.io/mindustry
-The mod is be open to be edited and community contrybusion is no problem, see: https://mindustrygame.github.io/wiki/modding/ for the modding gide.
+The mod is be open to be edited and community contribution is no problem, see: https://mindustrygame.github.io/wiki/modding/ for the modding gide.
 
 ## Installation
 There are tow ways to install the mod, the hard way and the easy way:
