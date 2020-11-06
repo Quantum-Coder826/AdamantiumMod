@@ -1,4 +1,4 @@
-type: DoubleTurret
+type: ItemTurret
 name: Adamantium Gun
 description: Fires heavy projectiles for a lange amount of damage.
 shootSound: laser
