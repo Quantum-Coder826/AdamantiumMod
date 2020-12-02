@@ -1,5 +1,5 @@
-type: material
+type: 
 name: Adamantium infused Thorium
 description: A highly explosive material, very useful as ammo.
 color: ae4be3
-// zal enkel gebruikt worden als ammo
+// Only use as ammo
