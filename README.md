@@ -1,9 +1,3 @@
-<body>
-  <h1 style='color:red'>Warning Deprecated</h1>
-  <p>This mod only works in gameversion 110 tested<br>
-  the mod.json allows for minimum gameversion 105</p>
-<body>
-
 # AdamantiumMod
 This is a mod for Mindustry by Auke: https://anuke.itch.io/mindustry
 The mod is be open to be edited and community contrybusion is no problem, see: https://mindustrygame.github.io/wiki/modding/ for the modding gide.
