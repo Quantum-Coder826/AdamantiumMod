@@ -1,8 +1,3 @@
-<body>
-  <h1 style='color:red'>Warning The V6 version is non functional</h1>
-  <p>See the issue for more information</p>
-<body>
-
 # AdamantiumMod
 This is a mod for Mindustry by Auke: https://anuke.itch.io/mindustry
 The mod is be open to be edited and community contrybusion is no problem, see: https://mindustrygame.github.io/wiki/modding/ for the modding gide.
