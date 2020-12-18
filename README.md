@@ -1,6 +1,8 @@
 # AdamantiumMod
 This is a mod for Mindustry by Auke: https://anuke.itch.io/mindustry
-The mod is be open to be edited and community contrybusion is no problem, see: https://mindustrygame.github.io/wiki/modding/ for the modding gide.
+
+#### Interested in more mods?
+[here](https://simonwoodburyforget.github.io/mindustry-mods/) is a mod list by SimonWoodburyForget.
 
 ## Installation
 There are two ways to install the mod, the easy way and the hard way:
@@ -17,6 +19,3 @@ There are two ways to install the mod, the easy way and the hard way:
 3. Click "Import mod" and navigate to the downloaded mod file.
 4. Click on the mod file and press load.
 5. The mod is now installed.
-
-### Want more mods?
-Simon WoodburryForget has a list [here](https://simonwoodburyforget.github.io/mindustry-mods/).
