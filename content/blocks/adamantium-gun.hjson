@@ -10,10 +10,10 @@ inaccuracy: 5
 rotatespeed: 15
 ammoTypes: {
   adamantium-infused-thorium: {
-    speed: 7
+    speed: 10
     damage: 50
-    bulletWith: 7
-    bulletHeight: 9
+    bulletWith: 10
+    bulletHeight: 10
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 5
