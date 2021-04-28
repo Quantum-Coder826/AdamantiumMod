@@ -2,7 +2,6 @@ type: GenericCrafter
 name: Adamantium Infuser
 description: infuses Adamantium and Thorium.
 itemCapacity: 20
-//itemoutput:
 outputItem: adamantium-infused-thorium/1
 size: 2
 hasPower: true
